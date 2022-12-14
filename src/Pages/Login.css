@@ -1,0 +1,64 @@
+body {
+    font-family: font-family-base;
+    font-size: 16px;
+    color: dark;
+  }
+  
+  .btn,
+  .btn:focus,
+  button,
+  button:focus {
+    outline: none !important;
+    box-shadow: none !important;
+  }
+  
+  a {
+    text-decoration: none !important;
+    outline: none;
+  }
+  
+  
+  p{
+    line-height: 1.7;
+  }
+  
+  textarea.form-control {
+    height: auto !important;
+  }
+  
+  .custom-form
+    .form-control{
+        height: 44px;
+        font-size: 15px;
+        padding-left: 15px;
+        border-color: #e6eef6;
+        color: muted;
+    }
+    .form-control:focus{
+      border-color: primary;
+        outline: 0;
+        box-shadow: none;
+    }
+  
+  
+  .account-home-btn{
+    position: absolute;
+    top: 18px;
+    right: 28px;
+    z-index: 1;
+  }
+  
+  .login-box{
+    box-shadow: box-shadow;
+  }
+  
+  .login-img{
+    padding: 90px 0px;
+  }
+  
+  .bg-account-pages{
+   
+    background-position: center;
+  }
+  
+  
